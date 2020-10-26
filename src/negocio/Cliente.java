@@ -1,6 +1,6 @@
 package negocio;
 
-/** Testando GIT ***
+/** Testando GIT OK***
  * Classe {@link Cliente} que representa um cliente real do banco.
  * @author Gustavo Farias
  */
